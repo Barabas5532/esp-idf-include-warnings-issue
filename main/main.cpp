@@ -11,6 +11,7 @@
 #include <thread>
 #include "esp_log.h"
 #include "gpio_cxx.hpp"
+#include "freertos/FreeRTOS.h"
 
 using namespace idf;
 using namespace std;
