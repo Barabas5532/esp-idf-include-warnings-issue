@@ -1,0 +1,4 @@
+build/
+build_esp*_*/
+sdkconfig
+sdkconfig.old
